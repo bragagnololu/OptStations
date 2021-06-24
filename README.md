@@ -19,4 +19,4 @@ Requirements: xarray, numpy, glob, os, harp libs (https://stcorp.github.io/harp/
     
     res = 0.025 # resolution to save the images (the smaller, the heavier the file size!)
     
-More information regarding the methodology can be found in the paper.
+More information regarding the methodology can be found in the paper. Data for code reproduction are located in the DATA.rar file.
